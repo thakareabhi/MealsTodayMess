@@ -1,0 +1,159 @@
+{
+  "project_info": {
+    "project_number": "149338950316",
+    "firebase_url": "https://meals-today-app.firebaseio.com",
+    "project_id": "meals-today-app",
+    "storage_bucket": "meals-today-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149338950316:android:75b61c234e4ae019e12d09",
+        "android_client_info": {
+          "package_name": "com.app.mealstoday"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149338950316-fl0r5hdp0akmm5cktb8b0ffnheqonhll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.app.mealstoday",
+            "certificate_hash": "a28f713d77c99f9d746163e6682174c3faba34f3"
+          }
+        },
+        {
+          "client_id": "149338950316-f0jcdmatb8c7ugiqqp10dgucr4hlr1jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnNmAjdF41Z14SFQ6JdBbjZhf6rvd1V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149338950316-f0jcdmatb8c7ugiqqp10dgucr4hlr1jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149338950316:android:c339d9b743d971e8e12d09",
+        "android_client_info": {
+          "package_name": "com.example.addfirebasechild"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149338950316-a6v0grhgrrr4te50ig6qloktiqgvnlsl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.addfirebasechild",
+            "certificate_hash": "ee646657f6493ade1dc1125edc0617b3e789e6f8"
+          }
+        },
+        {
+          "client_id": "149338950316-f0jcdmatb8c7ugiqqp10dgucr4hlr1jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnNmAjdF41Z14SFQ6JdBbjZhf6rvd1V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149338950316-f0jcdmatb8c7ugiqqp10dgucr4hlr1jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149338950316:android:28238a074bf0b24ce12d09",
+        "android_client_info": {
+          "package_name": "com.example.firebaseplusrecycler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149338950316-6mjedq3nrq6cvtp7m9mt58qnejm8bevf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebaseplusrecycler",
+            "certificate_hash": "90af985567becd283f84ae799d9ac5989dc5c06f"
+          }
+        },
+        {
+          "client_id": "149338950316-f0jcdmatb8c7ugiqqp10dgucr4hlr1jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnNmAjdF41Z14SFQ6JdBbjZhf6rvd1V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149338950316-f0jcdmatb8c7ugiqqp10dgucr4hlr1jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149338950316:android:8f455ba22711ac45e12d09",
+        "android_client_info": {
+          "package_name": "com.example.mealstodaymess"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149338950316-ield9pcds8d1c5ut4niv2h4utgk06h5n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mealstodaymess",
+            "certificate_hash": "ee646657f6493ade1dc1125edc0617b3e789e6f8"
+          }
+        },
+        {
+          "client_id": "149338950316-f0jcdmatb8c7ugiqqp10dgucr4hlr1jj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMnNmAjdF41Z14SFQ6JdBbjZhf6rvd1V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149338950316-f0jcdmatb8c7ugiqqp10dgucr4hlr1jj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
